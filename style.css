@@ -67,7 +67,7 @@ p {
     font-size: 14px;
 }
 
-.prices{
+.prices {
     display: flex;
     align-items: center;
 }
@@ -79,7 +79,7 @@ p {
     padding-right: 1em;
 }
 
-.priceb  {
+.priceb {
     font-family: 'Montserrat', serif;
     color: var(--color-vdblue);
     text-decoration: line-through;
@@ -93,7 +93,6 @@ p {
     border-radius: 7px;
     font-family:'Montserrat', serif; 
     width: 18em;
-
 }
 
 .icon{
