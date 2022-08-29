@@ -79,7 +79,7 @@ p {
     padding-right: 1em;
 }
 
-.priceb {
+.priceb  {
     font-family: 'Montserrat', serif;
     color: var(--color-vdblue);
     text-decoration: line-through;
